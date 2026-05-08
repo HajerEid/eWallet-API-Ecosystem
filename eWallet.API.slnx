@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="eWallet.API/eWallet.API.csproj" />
+  <Project Path="eWallet.Core/eWallet.Core.csproj" />
+  <Project Path="eWallet.Repository/eWallet.Repository.csproj" />
+  <Project Path="eWallet.Service/eWallet.Service.csproj" />
+</Solution>
